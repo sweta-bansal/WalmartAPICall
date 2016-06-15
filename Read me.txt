@@ -1,9 +1,3 @@
-API KEY: bh8gxdhr4mgnuvddrd7zfgcx
-
-http://api.walmartlabs.com/v1/search?apiKey={apiKey}&lsPublisherId={Your LinkShare Publisher Id}&query=ipod
-
-http://api.walmartlabs.com/v1/search?apiKey={bh8gxdhr4mgnuvddrd7zfgcx}&query=ipod
-
 
 Assumption:
 
